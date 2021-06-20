@@ -1,0 +1,10 @@
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\bin\Debug\netstandard2.0\MLSandboxML.Model.deps.json
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\bin\Debug\netstandard2.0\MLSandboxML.Model.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\bin\Debug\netstandard2.0\MLSandboxML.Model.pdb
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.dll
+C:\Users\fabio\OneDrive\Desktop\All Projects\Machine Learning\MLSandbox\MLSandboxML.Model\obj\Debug\netstandard2.0\MLSandboxML.Model.pdb
